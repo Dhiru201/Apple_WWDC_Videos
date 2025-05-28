@@ -37,9 +37,8 @@
 
 **Other Resources**  
 👉 [Tech Talks](https://gist.github.com/IsaacXen/874c59aec92a13f30728aecdabb9ea80#file-techtalks)    
-👉 [App Store Connect](https://gist.github.com/IsaacXen/874c59aec92a13f30728aecdabb9ea80#file-app-store-connect)    
-👉 [Insights](https://gist.github.com/IsaacXen/874c59aec92a13f30728aecdabb9ea80#file-insights)
-
+👉 [App Store Connect](https://gist.github.com/IsaacXen/874c59aec92a13f30728aecdabb9ea80#file-app-store-connect)         
+👉 [Apple site](https://developer.apple.com/videos/all-videos/)
 
 
 ## FAQ
