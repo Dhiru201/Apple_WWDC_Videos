@@ -1,4 +1,6 @@
 # Apple WWDC Videos Links
+## (Thanks to IsaacXen - https://gist.github.com/IsaacXen)
+
 
 <table>
   <tr>
